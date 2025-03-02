@@ -1,10 +1,6 @@
 # Basic-Python-Concepts
 
 
-# Python Basic Tasks Repository
-
-This repository contains two simple Python programs demonstrating basic programming concepts.
-
 ## Task 1: Perform Basic Mathematical Operations
 ### Description:
 - This program takes **two numbers** as input from the user.
