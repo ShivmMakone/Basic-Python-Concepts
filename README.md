@@ -22,9 +22,11 @@ This repository contains two simple Python programs demonstrating basic programm
 3. View the results of the four operations.
 
 ### Example Output:
-
-
-
+Enter the first number: 10 Enter the second number: 2
+Addition: 12
+Subtraction: 8
+Multiplication: 20
+Division: 5.0
 ---
 
 ## Task 2: Create a Personalized Greeting
@@ -44,6 +46,8 @@ This repository contains two simple Python programs demonstrating basic programm
 3. View the personalized greeting.
 
 ### Example Output:
+Enter your first name: John Enter your last name: Doe
+Hello, John Doe! Welcome to the Python program.
 
 
 
